@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soccentric-arches.github.io/sitemap.xml
